@@ -20,5 +20,7 @@ int main()
 
     cout << endl;
     printf("Hello, %d\n", add(1,2));
+    fflush(stdout); 
     printf("Hello, %d\n", subtract(2,2));
+    fflush(stdout); 
 }
