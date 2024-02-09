@@ -20,5 +20,5 @@ int main()
 
     cout << endl;
     printf("Hello, %d\n", add(1,2));
-    printf("Hello, %d\n", mminus(2,2));
+    printf("Hello, %d\n", subtract(2,2));
 }

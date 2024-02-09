@@ -1,3 +1,3 @@
 
 int add(int, int);
-int mminus(int, int);
+int subtract(int, int);
