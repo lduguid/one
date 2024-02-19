@@ -3,7 +3,7 @@
 #include <string>
 #include <cstdio>
 
-#include "math.h"
+#include "mymath.h"
 
 
 using namespace std;
