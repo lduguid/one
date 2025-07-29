@@ -1,2 +1,7 @@
 build/
-vc140.pdb
+.gitignore
+.vs
+*.pdb
+*.obj
+*.exe
+*.*~

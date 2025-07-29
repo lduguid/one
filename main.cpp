@@ -1,10 +1,10 @@
+
 #include <iostream>
 #include <vector>
 #include <string>
 #include <cstdio>
 
 #include "mymath.h"
-
 
 using namespace std;
 
@@ -19,8 +19,12 @@ int main()
     }
 
     cout << endl;
+    
     printf("Hello, %d\n", add(1,2));
     fflush(stdout); 
     printf("Hello, %d\n", subtract(2,2));
+    printf("Hello, %d\n", subtract(40,2));
     fflush(stdout); 
+
+    return 0;
 }
